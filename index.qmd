@@ -1,0 +1,30 @@
+---
+title: "ImgLib2 and BigDataViewer landing page"
+image: imglib2.jpg
+resources: cv_jfrench.pdf
+about: 
+  id: ImgLib2BDV-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:joshua.french@ucdenver.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/jfrench
+    - text: Tutorials
+      icon: youtube
+      href: https://youtube.com/@jfrench
+    - text: Article
+      icon: file-text
+      href: cv_jfrench.pdf
+---
+
+:::{#ImgLib2BDV-heading}
+
+This is the joint landing page for the open source software projects ImgLib2 and BigDataViewer. 
+
+
+:::
